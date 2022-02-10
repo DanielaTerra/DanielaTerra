@@ -1,8 +1,9 @@
-* {
-    font-family: 'Courier New', Courier, monospace;  
-    font-size: 40 px;
+ p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    background-color: rgb(235, 229, 241);
   }
   
   article {
-      color: blue;
+      color: rgba(0, 0, 255, 0.575);
   }
