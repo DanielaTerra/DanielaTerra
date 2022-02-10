@@ -1,9 +1,23 @@
+ h2 {
+  font-family:  Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  color: rgb(17, 51, 17);
+  /*background-color: rgb(235, 229, 241);*/
+ }
+ 
+
  p{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1rem;
-    background-color: rgb(235, 229, 241);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.7rem;
+    color: rgb(30, 75, 30);
+    /**/
   }
-  
+
+  b {
+    color: rgb(18, 73, 23);
+    background-color: rgb(245, 242, 248);
+  }
+
   article {
-      color: rgba(0, 0, 255, 0.575);
+      font-style: initial;
   }
